@@ -1,0 +1,2831 @@
+admins-macbook-pro:YelpFriendsCrawler admin$ python Scrape.py
+---VISITING Jane S.
+
+Total friends: 81
+Total pages : 2
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=rUQ0uTP4lbqbEl7PGhCugA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+
+
+---VISITING Jando S.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=s8nkbQAlrVPfg1u4anGKtw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Rodney H.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=HCP1pR_44Pw5_BiWAp47-Q
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Mike C.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=rN4RItq4xONM-cjgSfbvDQ
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Stephanie P.
+
+Total friends: 775
+Total pages : 17
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=NRGJ4IvauajqqCbhT640cw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+
+
+---VISITING Opal T.
+
+Total friends: 91
+Total pages : 2
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=Bmfo84L4-ExHDQpn-ZNmvQ
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+
+
+---VISITING Mike S.
+
+Total friends: 284
+Total pages : 6
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=yM-9jiQk7ZT9ooLPVfikaA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+
+
+---VISITING Jeremy S.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=iQd-YQtHh0iNvQLP1xdIYg
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Peter D.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=pnTiEaqM4slogpY97n9Kvg
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Steven B.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=76vIFZcC7owykCBjMfGVXg
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Andrew D.
+
+Total friends: 236
+Total pages : 5
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=7Khf3OZzmtOhrexNo6CrRg
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+
+
+---VISITING Abra S.
+
+Total friends: 99
+Total pages : 3
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=FmYLJUgVpTs6vVj3oktQDw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+
+
+---VISITING Cindy G.
+
+Total friends: 243
+Total pages : 6
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=vezfydkGlicKUKVdJoc2ug
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+
+
+---VISITING Deborah M.
+
+Total friends: 148
+Total pages : 4
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=EtDtPAoSz1lWxoNb1D120g
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+
+
+---VISITING Trinh And.
+
+Total friends: 14
+Total pages : 1
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=DMx_2ERe3Z4et3X04rDegQ
+Adding remaining page nodes 2
+
+
+---VISITING Michael W.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=LPTq2-fZ9_TsG5o8lAWCGg
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Vivian H.
+
+Total friends: 954
+Total pages : 20
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=HC5zLdut4caN1VPqxqRsMw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+
+
+---VISITING Mercedes C.
+
+Total friends: 137
+Total pages : 3
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=sLhx_e9CveYKWQXUzUeCfg
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+
+
+---VISITING Yelp -.
+
+---VISITING Gerardo A.
+
+Total friends: 334
+Total pages : 7
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=HpQ6AMW-v2iDFPOE6fkm0Q
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+
+
+---VISITING Christopher M.
+
+Total friends: 482
+Total pages : 11
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=Q6iiwjxWCfesMNz2sJYHZw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+
+
+---VISITING Yanill P.
+
+Total friends: 467
+Total pages : 10
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=33R20PUrjXyQPxgn6ZKKYA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+
+
+---VISITING Morgan A.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=C3Hpsx_eDfeSmxEc1HBzpA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Kevin C.
+
+Total friends: 926
+Total pages : 20
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=_1hmYuCMcWNVi-m2-oRi-w
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+
+
+---VISITING Jon W.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=O09aT0u9m9UbAJHY2c7QNw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING George T.
+
+Total friends: 274
+Total pages : 6
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=rUQ0uTP4lbqbEl7PGhCugA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+
+
+---VISITING Greg O.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=jkn6J1-sl5AaYkfXvYrVWA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Ruggy J.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=F_G-E35q20USHFseLt1ZKw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Karen X.
+
+Total friends: 164
+Total pages : 4
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=HX7-6s2A1LZo4ZsU6KnclA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+
+
+---VISITING Erik H.
+
+Total friends: 259
+Total pages : 6
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=418F_vnEiJMlU-sKpGttHA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+
+
+---VISITING Andie L.
+
+Total friends: 123
+Total pages : 3
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=NoOaVw8YAe4SlgWGLWMY8Q
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+
+
+---VISITING Grace L.
+
+Total friends: 238
+Total pages : 5
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=9fqHXHl937jhNmHq0c_BSA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+
+
+---VISITING Ina L.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=IHO177qayCdZQIL_zQ880g
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Ruwan J.
+
+Total friends: 238
+Total pages : 5
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=lTbFH4xlNakMIV70tKCNog
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+
+
+---VISITING Fiona L.
+
+Total friends: 283
+Total pages : 6
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=VtnCudEFLBjnxblLUAPYhA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+
+
+---VISITING Lori L.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=Qevuomc7vf9OHlN_dPB_rA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Steph S.
+
+Total friends: 223
+Total pages : 5
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=18IfGto90jqD-FotHqq90w
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+
+
+---VISITING Klarissa L.
+
+Total friends: 50
+Total pages : 2
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=JVRPa4D3YkCdMw0O306LXw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+
+
+---VISITING Kenny C.
+
+Total friends: 407
+Total pages : 9
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=1Z2EUwsPYln7O_C0ev9n4g
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+
+
+---VISITING Kevin J.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=jpwDmn396xUcSikoDJnpTA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Viroopa V.
+
+Total friends: 99
+Total pages : 3
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=6yiPBPN-4GNmpEct73cK-Q
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+
+
+---VISITING Raina B.
+
+Total friends: 60
+Total pages : 2
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=18_VH6czoovFlLBHm-4gAw
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+
+
+---VISITING Huy T.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=hGYGNZsPhcRuLgUVWR_rjQ
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Katie H.
+
+Total friends: 883
+Total pages : 19
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=CoS9VbTzh74Hh7FSlAKKVA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+
+
+---VISITING Jordan S.
+
+Total friends: 853
+Total pages : 18
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=o_oDHtflOmzr4-0xGoEW_g
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+
+
+http://www.yelp.com/user_details_friends?userid=QNV1a0wSNndRxPs9K7CMXQ
+Traceback (most recent call last):
+  File "Scrape.py", line 36, in <module>
+    node_name = node_name.get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+---VISITING May Y.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=UvYOj_ISNZ_5QaX0NIIecQ
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Carrie C.
+
+Total friends: 216
+Total pages : 5
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=_RsUtTnDvTwWN4FzWJUbdA
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+
+
+---VISITING Mel R.
+
+Total friends: 647
+Total pages : 14
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=ZE7OuV8_BCt4_p46uKDv0A
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+
+
+---VISITING Michelle F.
+
+Total friends: 1000
+Total pages : 21
+Added page 1 for current nodehttp://www.yelp.com/user_details_friends?userid=3nDUQBjKyVor5wV0reJChg
+Adding remaining page nodes 2
+Adding remaining page nodes 3
+Adding remaining page nodes 4
+Adding remaining page nodes 5
+Adding remaining page nodes 6
+Adding remaining page nodes 7
+Adding remaining page nodes 8
+Adding remaining page nodes 9
+Adding remaining page nodes 10
+Adding remaining page nodes 11
+Adding remaining page nodes 12
+Adding remaining page nodes 13
+Adding remaining page nodes 14
+Adding remaining page nodes 15
+Adding remaining page nodes 16
+Adding remaining page nodes 17
+Adding remaining page nodes 18
+Adding remaining page nodes 19
+Adding remaining page nodes 20
+Adding remaining page nodes 21
+Adding remaining page nodes 22
+
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+---VISITING Yelp Captcha.
+
+admins-macbook-pro:YelpFriendsCrawler admin$ 
